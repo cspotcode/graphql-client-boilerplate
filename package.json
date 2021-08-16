@@ -1,0 +1,11 @@
+{
+    "name": "TODO",
+    "version": "0.0.0",
+    "scripts": {
+        "codegen-watch": "yarn apollo client:codegen --target=typescript --watch",
+    },
+    "dependencies": {
+        "apollo": "^2.33.6",
+        "graphql-request": "^3.5.0"
+    }
+}
